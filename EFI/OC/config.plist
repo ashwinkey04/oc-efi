@@ -819,6 +819,7 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
+			<string>ApfsDriverLoader.efi</string>
 			<string>AudioDxe.efi</string>
 			<string>HfsPlus.efi</string>
 			<string>OpenCanopy.efi</string>
