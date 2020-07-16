@@ -229,13 +229,13 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAWWQ==</data>
+				<data>CQClPg==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal</string>
 				<key>complete-modeset-framebuffers</key>
 				<data>AAAAAAAAAAE=</data>
 				<key>device-id</key>
-				<data>FlkAAA==</data>
+				<data>pT4AAA==</data>
 				<key>disable-external-gpu</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-enable</key>
@@ -907,22 +907,7 @@
 			<string>Bootstrap</string>
 		</dict>
 		<key>Tools</key>
-		<array>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<true/>
-				<key>Name</key>
-				<string>Shell.efi</string>
-				<key>Comment</key>
-				<string>Shell.efi</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>Shell.efi</string>
-			</dict>
-		</array>
+		<array/>
 		<key>Entries</key>
 		<array/>
 	</dict>
