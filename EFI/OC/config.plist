@@ -207,7 +207,7 @@
 				<key>AAPL,ig-platform-id</key>
 				<data>AACbPg==</data>
 				<key>device-id</key>
-				<data>pT4AAA==</data>
+				<data>mz4AAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
@@ -444,22 +444,6 @@
 				<string>AppleALC.kext</string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AppleALC</string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>BundlePath</key>
-				<string>AppleBacklightFixup.kext</string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/AppleBacklightFixup</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -1003,7 +987,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>darkwake=0 gfxrst=1 alcid=1 -v</string>
+				<string>gfxrst=1 alcid=1 -v</string>
 				<key>bootercfg</key>
 				<string>log=0 debug=0 level=0</string>
 				<key>csr-active-config</key>
@@ -1030,17 +1014,17 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02804207QXJH4R8C</string>
+			<string>C02953405GUJH4R1M</string>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02W5DZDJHCD</string>
+			<string>C02ZX0TDJHCC</string>
 			<key>SystemUUID</key>
-			<string>851B8086-148C-429E-8C68-24BB69221BBF</string>
+			<string>6CB8FEA6-A8CD-4442-A6CF-2E0E48B0E350</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1060,15 +1044,12 @@
 			<string>AudioDxe.efi</string>
 			<string>CrScreenshotDxe.efi</string>
 			<string>HfsPlus.efi</string>
-			<string>HiiDatabase.efi</string>
-			<string>NvmExpressDxe.efi</string>
 			<string>OpenCanopy.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>OpenUsbKbDxe.efi</string>
 			<string>Ps2KeyboardDxe.efi</string>
 			<string>Ps2MouseDxe.efi</string>
 			<string>UsbMouseDxe.efi</string>
-			<string>XhciDxe.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
