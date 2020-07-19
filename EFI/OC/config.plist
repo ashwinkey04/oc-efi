@@ -42,9 +42,9 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>SSDT-PNLF.aml</string>
+				<string>SSDT-PNLF-CFL.aml</string>
 				<key>Path</key>
-				<string>SSDT-PNLF.aml</string>
+				<string>SSDT-PNLF-CFL.aml</string>
 			</dict>
 			<dict>
 				<key>Enabled</key>
@@ -67,6 +67,20 @@
 		<array/>
 		<key>Patch</key>
 		<array>
+			<dict>
+				<key>Comment</key>
+				<string>Change _OSI to XOSI</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Find</key>
+				<data>X09TSQ==</data>
+				<key>Replace</key>
+				<data>WE9TSQ==</data>
+			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Rename LGPA to XGPA, pair with SSDT-LGPA.aml (Brightness Key)</string>
@@ -987,7 +1001,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>gfxrst=1 alcid=1 -v</string>
+				<string>gfxrst=1 alcid=1</string>
 				<key>bootercfg</key>
 				<string>log=0 debug=0 level=0</string>
 				<key>csr-active-config</key>
