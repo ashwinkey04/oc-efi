@@ -11,12 +11,13 @@ Working with macOS 10.15.6 Catalina.
 * Webcam
 * Intel UHD 620 (2048 MB VRAM)
 * Brightness control
-* Trackpad (Without scrolling and macOS gestures)
+* Trackpad (With all the nice gestures that macOS has)
 * Bluetooth
 
 ### Currently dead: (Other than myself)
-* Trackpad gestures and scrolling
+* HDMI out
 * Audio 
+* TP-Link USB WiFi adapter (If driver is installed, both WiFi and ethernet won't work) 
 
 ### Screenshot to make you jealous
 ![image](https://user-images.githubusercontent.com/20596763/87876760-ec7de480-c9f7-11ea-9fe4-0ef2540defd5.png)
