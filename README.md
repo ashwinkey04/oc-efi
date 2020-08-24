@@ -10,7 +10,7 @@ Working with macOS 10.15.6 Catalina.
 * Ethernet (Via a Type-C hub of course)
 * All USB ports
 * Webcam
-* Intel UHD 620 (2048 MB VRAM)
+* Intel UHD 620 (1536 MB VRAM)
 * Brightness control
 * Trackpad (With all the nice gestures that macOS has)
 * Bluetooth
