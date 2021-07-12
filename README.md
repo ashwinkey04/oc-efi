@@ -1,6 +1,9 @@
 
 # Open Core EFI files for Acer Swift 3 SF314-55G
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ashwinr)
+
+
 ### Status:
 ![Alt Text](https://media.tenor.com/images/314a7ba86e24d67040c417cac74f24fc/tenor.gif)
 
